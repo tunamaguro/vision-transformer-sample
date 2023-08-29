@@ -1,0 +1,34 @@
+# visualizers
+matplotlib
+# seaborn
+tensorboard
+
+# pytorch
+torch
+# torchvision
+# torchaudio
+torchinfo
+pytorch-lightning
+
+# hugging face
+# transformers
+# accelerate
+
+# tensorflow
+# tensorflow
+  
+
+# jupyterlab
+jupyterlab
+ipywidgets
+
+# utilities
+# pandas
+# numpy
+polars
+# scipy
+
+# formatter
+black
+flake8
+isort
